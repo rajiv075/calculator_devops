@@ -39,7 +39,7 @@ public class Calculator
                 case 1:
                     System.out.print("Enter number : ");
                     num1 = scanner.nextDouble();
-//                    System.out.println("Square root of "+num1+" is : " + calculator.sqroot(num1));
+                    System.out.println("Square root of "+num1+" is : " + calculator.squareroot(num1));
                     System.out.println("\n");
                     break;
 
@@ -55,14 +55,14 @@ public class Calculator
                     num1 = scanner.nextDouble();
                     System.out.print("Enter the second number : ");
                     num2 = scanner.nextDouble();
-//                    System.out.println(num1+ " power "+num2+" is : " + calculator.power(num1, num2));
+                    System.out.println(num1+ " power "+num2+" is : " + calculator.power(num1, num2));
                     System.out.println("\n");
                     break;
 
                 case 4:
                     System.out.print("Enter a number : ");
                     num1 = scanner.nextDouble();
-//                    System.out.println("log of "+num1+" is : " + calculator.naturalLog(num1));
+                    System.out.println("log of "+num1+" is : " + calculator.logrithm(num1));
                     System.out.println("\n");
                     break;
                 default:
@@ -90,14 +90,37 @@ public class Calculator
         return f;
     }
 
+    public double squareroot(double num1) {
+        logger.info("[SQ ROOT] - " + num1);
+        double result = Math.sqrt(num1);
+        logger.info("[RESULT - SQ ROOT] - " + result);
+        return result;
+    }
 
+    public double power(double num1, double num2) {
+        logger.info("[POWER - " + num1 + " RAISED TO] " + num2);
+        double result = Math.pow(num1,num2);
+        logger.info("[RESULT - POWER] - " + result);
+        return result;
+    }
 
+    public double logrithm(double num1) {
+        logger.info("[NATURAL LOG] - " + num1);
+        double result = 0;
+        try {
 
-
-
-
-
-
-
+            if (num1 <0 ) {
+                result = Double.NaN;
+                throw new ArithmeticException("Case of NaN 0.0/0.0");
+            }
+            else {
+                result = Math.log(num1);
+            }
+        } catch (ArithmeticException error) {
+            System.out.println("[EXCEPTION - LOG] - Cannot find log of negative numbers " + error.getLocalizedMessage());
+        }
+        logger.info("[RESULT - NATURAL LOG] - " + result);
+        return result;
+    }
 
 }
