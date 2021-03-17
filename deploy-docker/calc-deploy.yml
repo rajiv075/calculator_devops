@@ -4,5 +4,5 @@
   tasks:
     - name: Pull image
       docker_image:
-        name: rajiv075/calulator_devops
+        name: rajiv075/calculator_devops
         source: pull
