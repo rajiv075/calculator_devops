@@ -73,22 +73,44 @@ public class Calculator
         }//close while
     }//close main
 
-    public BigInteger factorial(double num1) {
-        logger.info("[FACTORIAL] - " + num1);
-        BigInteger result = fact(num1);
+//    public BigInteger factorial(double num1) {
+//        logger.info("[FACTORIAL] - " + num1);
+//        BigInteger result = fact(num1);
+//        logger.info("[RESULT - FACTORIAL] - " + result);
+//        return result;
+//    }
+//
+//    static BigInteger fact(double num1)
+//    {
+//
+//        BigInteger f = new BigInteger("1");
+//        for (int i = 2; i <= num1; i++)
+//            f = f.multiply(BigInteger.valueOf(i));
+//
+//        return f;
+//    }
+
+    public double factorial(double number1) {
+        logger.info("[FACTORIAL] - " + number1);
+        double result = fact(number1);
         logger.info("[RESULT - FACTORIAL] - " + result);
         return result;
     }
-
-    static BigInteger fact(double num1)
-    {
-
-        BigInteger f = new BigInteger("1");
-        for (int i = 2; i <= num1; i++)
-            f = f.multiply(BigInteger.valueOf(i));
-
-        return f;
+    public double fact(double num) {
+        double f = 1;
+        for(int i = 1; i <= num; ++i)
+        { f *= i;   }
+        return  f;
     }
+
+
+
+
+
+
+
+
+
 
     public double squareroot(double num1) {
         logger.info("[SQ ROOT] - " + num1);
