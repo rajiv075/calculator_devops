@@ -1,0 +1,320 @@
+2021-03-17 14:49:26.195 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 14:49:26.199 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 14:49:26.200 [main] INFO  calculator.Calculator - [FACTORIAL] - 3.0
+2021-03-17 14:49:26.200 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 6.0
+2021-03-17 14:49:26.201 [main] INFO  calculator.Calculator - [SQ ROOT] - 3.0
+2021-03-17 14:49:26.202 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.7320508075688772
+2021-03-17 14:49:26.203 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 14:49:26.203 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 14:49:26.204 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 14:49:26.204 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 14:49:26.205 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 14:49:26.205 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 14:49:26.206 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 14:49:26.207 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 14:49:26.207 [main] INFO  calculator.Calculator - [FACTORIAL] - 10.0
+2021-03-17 14:49:26.208 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 3628800.0
+2021-03-17 14:49:26.209 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 2.0
+2021-03-17 14:49:26.209 [main] INFO  calculator.Calculator - [RESULT - POWER] - 4.0
+2021-03-17 14:49:26.210 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 14:49:26.210 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 14:49:26.212 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 14:49:26.212 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 14:49:26.213 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2021-03-17 14:49:26.214 [main] INFO  calculator.Calculator - [RESULT - POWER] - 64.0
+2021-03-17 14:49:26.215 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
+2021-03-17 14:49:26.215 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2021-03-17 14:49:26.216 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.1
+2021-03-17 14:49:26.216 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.7419373447293773
+2021-03-17 14:49:26.218 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 14:49:26.218 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 14:49:26.219 [main] INFO  calculator.Calculator - [SQ ROOT] - 1.0
+2021-03-17 14:49:26.219 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.0
+2021-03-17 14:54:46.209 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 14:54:46.213 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 14:54:46.214 [main] INFO  calculator.Calculator - [FACTORIAL] - 3.0
+2021-03-17 14:54:46.214 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 6.0
+2021-03-17 14:54:46.216 [main] INFO  calculator.Calculator - [SQ ROOT] - 3.0
+2021-03-17 14:54:46.216 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.7320508075688772
+2021-03-17 14:54:46.216 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 14:54:46.217 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 14:54:46.218 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 14:54:46.218 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 14:54:46.218 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 14:54:46.219 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 14:54:46.220 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 14:54:46.220 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 14:54:46.220 [main] INFO  calculator.Calculator - [FACTORIAL] - 10.0
+2021-03-17 14:54:46.220 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 3628800.0
+2021-03-17 14:54:46.221 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 2.0
+2021-03-17 14:54:46.222 [main] INFO  calculator.Calculator - [RESULT - POWER] - 4.0
+2021-03-17 14:54:46.222 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 14:54:46.222 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 14:54:46.223 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 14:54:46.223 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 14:54:46.223 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2021-03-17 14:54:46.224 [main] INFO  calculator.Calculator - [RESULT - POWER] - 64.0
+2021-03-17 14:54:46.224 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
+2021-03-17 14:54:46.225 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2021-03-17 14:54:46.225 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.1
+2021-03-17 14:54:46.226 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.7419373447293773
+2021-03-17 14:54:46.227 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 14:54:46.227 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 14:54:46.228 [main] INFO  calculator.Calculator - [SQ ROOT] - 1.0
+2021-03-17 14:54:46.228 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.0
+2021-03-17 14:57:08.798 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 14:57:08.802 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 14:57:08.802 [main] INFO  calculator.Calculator - [FACTORIAL] - 3.0
+2021-03-17 14:57:08.802 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 6.0
+2021-03-17 14:57:08.804 [main] INFO  calculator.Calculator - [SQ ROOT] - 3.0
+2021-03-17 14:57:08.804 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.7320508075688772
+2021-03-17 14:57:08.805 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 14:57:08.805 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 14:57:08.806 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 14:57:08.806 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 14:57:08.806 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 14:57:08.806 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 14:57:08.807 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 14:57:08.808 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 14:57:08.809 [main] INFO  calculator.Calculator - [FACTORIAL] - 10.0
+2021-03-17 14:57:08.809 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 3628800.0
+2021-03-17 14:57:08.810 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 2.0
+2021-03-17 14:57:08.810 [main] INFO  calculator.Calculator - [RESULT - POWER] - 4.0
+2021-03-17 14:57:08.811 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 14:57:08.811 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 14:57:08.812 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 14:57:08.812 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 14:57:08.813 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2021-03-17 14:57:08.813 [main] INFO  calculator.Calculator - [RESULT - POWER] - 64.0
+2021-03-17 14:57:08.814 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
+2021-03-17 14:57:08.815 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2021-03-17 14:57:08.815 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.1
+2021-03-17 14:57:08.816 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.7419373447293773
+2021-03-17 14:57:08.817 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 14:57:08.817 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 14:57:08.817 [main] INFO  calculator.Calculator - [SQ ROOT] - 1.0
+2021-03-17 14:57:08.818 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.0
+2021-03-17 14:58:08.642 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 14:58:08.647 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 14:58:08.647 [main] INFO  calculator.Calculator - [FACTORIAL] - 3.0
+2021-03-17 14:58:08.647 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 6.0
+2021-03-17 14:58:08.649 [main] INFO  calculator.Calculator - [SQ ROOT] - 3.0
+2021-03-17 14:58:08.649 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.7320508075688772
+2021-03-17 14:58:08.650 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 14:58:08.650 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 14:58:08.651 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 14:58:08.651 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 14:58:08.652 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 14:58:08.652 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 14:58:08.653 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 14:58:08.653 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 14:58:08.653 [main] INFO  calculator.Calculator - [FACTORIAL] - 10.0
+2021-03-17 14:58:08.654 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 3628800.0
+2021-03-17 14:58:08.655 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 2.0
+2021-03-17 14:58:08.655 [main] INFO  calculator.Calculator - [RESULT - POWER] - 4.0
+2021-03-17 14:58:08.655 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 14:58:08.656 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 14:58:08.656 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 14:58:08.657 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 14:58:08.657 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2021-03-17 14:58:08.657 [main] INFO  calculator.Calculator - [RESULT - POWER] - 64.0
+2021-03-17 14:58:08.658 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
+2021-03-17 14:58:08.658 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2021-03-17 14:58:08.658 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.1
+2021-03-17 14:58:08.659 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.7419373447293773
+2021-03-17 14:58:08.660 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 14:58:08.660 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 14:58:08.660 [main] INFO  calculator.Calculator - [SQ ROOT] - 1.0
+2021-03-17 14:58:08.660 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.0
+2021-03-17 14:59:23.058 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 14:59:23.062 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 14:59:23.063 [main] INFO  calculator.Calculator - [FACTORIAL] - 3.0
+2021-03-17 14:59:23.063 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 6.0
+2021-03-17 14:59:23.065 [main] INFO  calculator.Calculator - [SQ ROOT] - 3.0
+2021-03-17 14:59:23.066 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.7320508075688772
+2021-03-17 14:59:23.066 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 14:59:23.066 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 14:59:23.067 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 14:59:23.068 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 14:59:23.068 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 14:59:23.068 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 14:59:23.069 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 14:59:23.069 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 14:59:23.070 [main] INFO  calculator.Calculator - [FACTORIAL] - 10.0
+2021-03-17 14:59:23.070 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 3628800.0
+2021-03-17 14:59:23.071 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 2.0
+2021-03-17 14:59:23.072 [main] INFO  calculator.Calculator - [RESULT - POWER] - 4.0
+2021-03-17 14:59:23.072 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 14:59:23.073 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 14:59:23.073 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 14:59:23.073 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 14:59:23.074 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2021-03-17 14:59:23.074 [main] INFO  calculator.Calculator - [RESULT - POWER] - 64.0
+2021-03-17 14:59:23.075 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
+2021-03-17 14:59:23.075 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2021-03-17 14:59:23.076 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.1
+2021-03-17 14:59:23.076 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.7419373447293773
+2021-03-17 14:59:23.077 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 14:59:23.077 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 14:59:23.078 [main] INFO  calculator.Calculator - [SQ ROOT] - 1.0
+2021-03-17 14:59:23.078 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.0
+2021-03-17 15:01:13.527 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 15:01:13.531 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 15:01:13.532 [main] INFO  calculator.Calculator - [FACTORIAL] - 3.0
+2021-03-17 15:01:13.532 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 6.0
+2021-03-17 15:01:13.533 [main] INFO  calculator.Calculator - [SQ ROOT] - 3.0
+2021-03-17 15:01:13.533 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.7320508075688772
+2021-03-17 15:01:13.534 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 15:01:13.534 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 15:01:13.535 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 15:01:13.535 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 15:01:13.536 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 15:01:13.536 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 15:01:13.537 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 15:01:13.538 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 15:01:13.538 [main] INFO  calculator.Calculator - [FACTORIAL] - 10.0
+2021-03-17 15:01:13.538 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 3628800.0
+2021-03-17 15:01:13.539 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 2.0
+2021-03-17 15:01:13.539 [main] INFO  calculator.Calculator - [RESULT - POWER] - 4.0
+2021-03-17 15:01:13.540 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 15:01:13.540 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 15:01:13.541 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 15:01:13.541 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 15:01:13.541 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2021-03-17 15:01:13.541 [main] INFO  calculator.Calculator - [RESULT - POWER] - 64.0
+2021-03-17 15:01:13.542 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
+2021-03-17 15:01:13.543 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2021-03-17 15:01:13.543 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.1
+2021-03-17 15:01:13.543 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.7419373447293773
+2021-03-17 15:01:13.544 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 15:01:13.544 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 15:01:13.544 [main] INFO  calculator.Calculator - [SQ ROOT] - 1.0
+2021-03-17 15:01:13.545 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.0
+2021-03-17 15:01:30.122 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 15:01:30.126 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 15:01:30.127 [main] INFO  calculator.Calculator - [FACTORIAL] - 3.0
+2021-03-17 15:01:30.127 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 6.0
+2021-03-17 15:01:30.128 [main] INFO  calculator.Calculator - [SQ ROOT] - 3.0
+2021-03-17 15:01:30.129 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.7320508075688772
+2021-03-17 15:01:30.129 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 15:01:30.129 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 15:01:30.130 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 15:01:30.130 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 15:01:30.131 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 15:01:30.131 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 15:01:30.132 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 15:01:30.133 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 15:01:30.133 [main] INFO  calculator.Calculator - [FACTORIAL] - 10.0
+2021-03-17 15:01:30.134 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 3628800.0
+2021-03-17 15:01:30.134 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 2.0
+2021-03-17 15:01:30.135 [main] INFO  calculator.Calculator - [RESULT - POWER] - 4.0
+2021-03-17 15:01:30.135 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 15:01:30.135 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 15:01:30.136 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 15:01:30.137 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 15:01:30.137 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2021-03-17 15:01:30.137 [main] INFO  calculator.Calculator - [RESULT - POWER] - 64.0
+2021-03-17 15:01:30.138 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
+2021-03-17 15:01:30.138 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2021-03-17 15:01:30.139 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.1
+2021-03-17 15:01:30.139 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.7419373447293773
+2021-03-17 15:01:30.140 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 15:01:30.140 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 15:01:30.140 [main] INFO  calculator.Calculator - [SQ ROOT] - 1.0
+2021-03-17 15:01:30.141 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.0
+2021-03-17 15:06:21.082 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 15:06:21.087 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 15:06:21.087 [main] INFO  calculator.Calculator - [FACTORIAL] - 3.0
+2021-03-17 15:06:21.088 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 6.0
+2021-03-17 15:06:21.089 [main] INFO  calculator.Calculator - [SQ ROOT] - 3.0
+2021-03-17 15:06:21.089 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.7320508075688772
+2021-03-17 15:06:21.090 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 15:06:21.090 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 15:06:21.091 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 15:06:21.091 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 15:06:21.092 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 15:06:21.092 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 15:06:21.093 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 15:06:21.094 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 15:06:21.094 [main] INFO  calculator.Calculator - [FACTORIAL] - 10.0
+2021-03-17 15:06:21.094 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 3628800.0
+2021-03-17 15:06:21.095 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 2.0
+2021-03-17 15:06:21.095 [main] INFO  calculator.Calculator - [RESULT - POWER] - 4.0
+2021-03-17 15:06:21.096 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 15:06:21.096 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 15:06:21.097 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 15:06:21.097 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 15:06:21.098 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2021-03-17 15:06:21.098 [main] INFO  calculator.Calculator - [RESULT - POWER] - 64.0
+2021-03-17 15:06:21.099 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
+2021-03-17 15:06:21.099 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2021-03-17 15:06:21.099 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.1
+2021-03-17 15:06:21.100 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.7419373447293773
+2021-03-17 15:06:21.100 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 15:06:21.101 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 15:06:21.101 [main] INFO  calculator.Calculator - [SQ ROOT] - 1.0
+2021-03-17 15:06:21.102 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.0
+2021-03-17 15:09:37.488 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 15:09:37.492 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 15:09:37.493 [main] INFO  calculator.Calculator - [FACTORIAL] - 3.0
+2021-03-17 15:09:37.493 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 6.0
+2021-03-17 15:09:37.495 [main] INFO  calculator.Calculator - [SQ ROOT] - 3.0
+2021-03-17 15:09:37.495 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.7320508075688772
+2021-03-17 15:09:37.496 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 15:09:37.496 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 15:09:37.497 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 15:09:37.497 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 15:09:37.497 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 15:09:37.498 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 15:09:37.499 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 15:09:37.499 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 15:09:37.500 [main] INFO  calculator.Calculator - [FACTORIAL] - 10.0
+2021-03-17 15:09:37.500 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 3628800.0
+2021-03-17 15:09:37.501 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 2.0
+2021-03-17 15:09:37.501 [main] INFO  calculator.Calculator - [RESULT - POWER] - 4.0
+2021-03-17 15:09:37.502 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 15:09:37.502 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 15:09:37.503 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 15:09:37.503 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 15:09:37.504 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2021-03-17 15:09:37.504 [main] INFO  calculator.Calculator - [RESULT - POWER] - 64.0
+2021-03-17 15:09:37.505 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
+2021-03-17 15:09:37.505 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2021-03-17 15:09:37.506 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.1
+2021-03-17 15:09:37.506 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.7419373447293773
+2021-03-17 15:09:37.507 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 15:09:37.507 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 15:09:37.507 [main] INFO  calculator.Calculator - [SQ ROOT] - 1.0
+2021-03-17 15:09:37.508 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.0
+2021-03-17 15:12:58.660 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 15:12:58.664 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 15:12:58.665 [main] INFO  calculator.Calculator - [FACTORIAL] - 3.0
+2021-03-17 15:12:58.665 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 6.0
+2021-03-17 15:12:58.667 [main] INFO  calculator.Calculator - [SQ ROOT] - 3.0
+2021-03-17 15:12:58.667 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.7320508075688772
+2021-03-17 15:12:58.668 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 15:12:58.668 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 15:12:58.669 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 15:12:58.669 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 15:12:58.670 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 15:12:58.670 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 15:12:58.671 [main] INFO  calculator.Calculator - [FACTORIAL] - 6.0
+2021-03-17 15:12:58.671 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 720.0
+2021-03-17 15:12:58.672 [main] INFO  calculator.Calculator - [FACTORIAL] - 10.0
+2021-03-17 15:12:58.672 [main] INFO  calculator.Calculator - [RESULT - FACTORIAL] - 3628800.0
+2021-03-17 15:12:58.673 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 2.0
+2021-03-17 15:12:58.673 [main] INFO  calculator.Calculator - [RESULT - POWER] - 4.0
+2021-03-17 15:12:58.674 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 15:12:58.674 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 15:12:58.675 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 15:12:58.675 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 15:12:58.676 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2021-03-17 15:12:58.676 [main] INFO  calculator.Calculator - [RESULT - POWER] - 64.0
+2021-03-17 15:12:58.677 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
+2021-03-17 15:12:58.677 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2021-03-17 15:12:58.678 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.1
+2021-03-17 15:12:58.678 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.7419373447293773
+2021-03-17 15:12:58.679 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2021-03-17 15:12:58.680 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2021-03-17 15:12:58.680 [main] INFO  calculator.Calculator - [SQ ROOT] - 1.0
+2021-03-17 15:12:58.680 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 1.0
